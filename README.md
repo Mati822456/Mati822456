@@ -20,7 +20,18 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Environments</h2>
+
+###
+  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="52" alt="pycharm logo"  />
+</div>
+
+###
+
+<h2 align="left">Technology Stack</h2>
 
 ###
 
